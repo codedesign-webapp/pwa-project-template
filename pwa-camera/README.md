@@ -7,6 +7,9 @@
 * 전면/후면 카메라 전환
 ```
 
+### 참고
+* http://code-design.web.app
+
 ## Project setup
 ```
 npm install
