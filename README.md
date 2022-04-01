@@ -5,7 +5,7 @@
 ## 분야
 #### 1. 카메라 PWA 앱
 * [템플릿 소스] https://github.com/codedesign-webapp/pwa-project-template/tree/main/pwa-camera
-* [라이브 데모]  https://pwa-camera.web.app/
+* [라이브 데모] https://pwa-camera.web.app/
 
 
 ### 참고
