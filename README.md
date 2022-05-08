@@ -7,6 +7,10 @@
 * [템플릿 소스] https://github.com/codedesign-webapp/pwa-project-template/tree/main/pwa-camera
 * [라이브 데모] https://pwa-camera.web.app/
 
+#### 2. 구글 로그인 PWA 앱
+* [템플릿 소스] https://github.com/codedesign-webapp/pwa-project-template/tree/main/pwa-login-popup-redirect
+* [라이브 데모] https://pwa-auth-login.web.app/
+
 
 ### 참고
 * https://github.com/codedesign-webapp/pwa-about
